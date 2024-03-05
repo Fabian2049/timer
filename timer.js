@@ -1,4 +1,4 @@
-const targetdate = new Date("1 mar 2024");
+const targetdate = new Date("11 mar 2024");
 
 const t = setInterval(()=>{
     const now = new Date();
